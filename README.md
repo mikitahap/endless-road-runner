@@ -21,17 +21,19 @@ Crossy Road is a simple console-based game where the player controls a frog atte
 ## 📂 Project Structure
 
 ```
-endless-road-runner-c/
-├── CrossyRoad.c            # Main game logic
-├── CrossyRoad.vcxproj      # Visual Studio project file
-├── CrossyRoad.vcxproj.filters # Project filters
-├── config.txt              # Game settings
-├── curses.h                # Header for PDCurses
-├── game_state.txt          # Saves game progress
-├── leaderboard.txt         # Stores high scores
-├── pdcurses.lib            # PDCurses library file
-├── README.md               # Project documentation
-└── .gitignore              # Git ignored files
+endless-road-runner-c/       # Root project folder
+├── CrossyRoad/              # Game folder
+│   ├── CrossyRoad.c         # Main game logic
+│   ├── CrossyRoad.vcxproj   # Visual Studio project file
+│   ├── CrossyRoad.vcxproj.filters # Visual Studio project filters
+│   ├── config.txt           # Game settings
+│   ├── curses.h             # PDCurses header file
+│   ├── game_state.txt       # Game progress saves
+│   ├── leaderboard.txt      # High scores storage
+│   └── pdcurses.lib         # PDCurses library file
+├── .gitignore               # Git ignored files
+├── .gitattributes           # Git attributes
+└── README.md                # Project documentation
 ```
 
 ## 📜 License
