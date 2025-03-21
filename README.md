@@ -38,5 +38,5 @@ endless-road-runner-c/       # Root project folder
 
 ## 📜 License
 
-This project is open-source, feel free to use the code.
+This project is open-source, and licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
