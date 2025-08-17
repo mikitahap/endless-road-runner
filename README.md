@@ -1,10 +1,10 @@
 # Endless Road Runner in C
 
-A **Crossy Road**-inspired console game developed in **C** as a first-semester university project.
+A **Crossy Road**-inspired terminal game developed in **C** as a first-semester university project.
 
 ## 📌 Overview
 
-Crossy Road is a simple console-based game where the player controls a frog attempting to cross a series of roads, avoiding cars, trees, and a chasing stork. The game is built using **C** and utilizes the **PDCurses library** for console rendering.
+Crossy Road is a simple terminal-based game where the player controls a frog attempting to cross a series of roads, avoiding cars, trees, and a chasing stork. The game is built using **C** and utilizes the **PDCurses library** for terminal rendering.
 
 ## 🎮 Features
 
